@@ -1,5 +1,8 @@
 # MarkDown
 
+## README file
+[README.md](https://github.com/matthieuGravy/groupeMarkDown/blob/main/README.md)
+
 ## Lists
 + First Element
 + Second Element
@@ -23,5 +26,3 @@
     alert("Hello!");
 </script>
 ```
-
-[README.md](https://github.com/matthieuGravy/groupeMarkDown/blob/main/README.md)
