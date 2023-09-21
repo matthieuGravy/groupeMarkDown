@@ -1,7 +1,5 @@
-
-```
 # README
-```
+
 
 # Group Markdown
 This is a small project to learn how to write markdown and work as a team with git and Github.
