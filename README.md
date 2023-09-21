@@ -10,5 +10,5 @@ This is a small project to learn how to write markdown and work as a team with g
 | Matthieu Gravy | [matthieuGravy](https://github.com/matthieuGravy) |
 
 ## Markdown file
-[markdown.md](groupeMarkDown/tree/marc/markdown.md)
+[markdown.md]([groupeMarkDown/tree/marc/markdown.md](https://github.com/matthieuGravy/groupeMarkDown/blob/main/markdown.md)https://github.com/matthieuGravy/groupeMarkDown/blob/main/markdown.md)
 
