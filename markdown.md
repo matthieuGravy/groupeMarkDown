@@ -16,3 +16,10 @@
 
 ## Dynamic Image
 ![git](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif "git")
+
+## Code
+```html
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
