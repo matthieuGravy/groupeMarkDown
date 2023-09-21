@@ -10,4 +10,3 @@ This is a small project to learn how to write markdown and work as a team with g
 
 ## Markdown file
 [markdown.md](groupeMarkDown/tree/marc/markdown.md)
-
