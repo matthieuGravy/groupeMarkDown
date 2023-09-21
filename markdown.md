@@ -11,3 +11,9 @@
       - Second Nested Element
 2. Second Element
 3. Third Element
+
+```html
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
