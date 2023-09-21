@@ -1,12 +1,13 @@
-# README
 # Group Markdown
-This is a small project to learn markdown and work as a team on git.
-## Author:
-Name: Marc Nicolas
-Github: https://github.com/marcn97
+This is a small project to learn how to write markdown and work as a team with git and Github.
 
-Name: Louis Van Aken
-Github: louis-va
+## Authors:
+| Name  | Github  |
+|---|---|
+| Marc Nicolas  | [marcn97](https://github.com/marcn97)  |
+| Louis Van Aken  | [louis-va](https://github.com/louis-va)  |
+|   |   |
 
-[Link to markdown.md](groupeMarkDown/tree/marc/markdown.md)
+## Markdown file
+[markdown.md](groupeMarkDown/tree/marc/markdown.md)
 
