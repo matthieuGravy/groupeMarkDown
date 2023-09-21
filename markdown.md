@@ -12,6 +12,8 @@
 2. Second Element
 3. Third Element
 
-    <script type="text/javascript">
-        alert("Hello!");
-    </script>
+```html
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
