@@ -9,4 +9,3 @@ Name: Louis Van Aken
 Github: louis-va
 
 [Link to markdown.md](groupeMarkDown/tree/marc/markdown.md)
-
